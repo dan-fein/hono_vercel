@@ -1,7 +1,3 @@
-```
-
-```
-
 This is a [honojs/hono](https://hono.dev/) starter kit for deploying on Vercel.
 
 ## Getting Started
